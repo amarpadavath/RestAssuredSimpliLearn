@@ -36,6 +36,8 @@ public class Recres  {
 
         //Assert.assertEquals( 200, status_Code);
 
+
+
         Assert.assertEquals(Integer.parseInt(obj.ReadPropertiesFile("responseStatus")), status_Code);
         // System.out.println(s);
         String resBody = res.getBody().asString();
