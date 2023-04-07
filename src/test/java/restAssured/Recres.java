@@ -10,6 +10,7 @@ import reusable.Reusable;
 public class Recres  {
 //amar
     //test
+    //main
     public static Reusable obj;
 
     public static void main (String[] args) throws Exception
