@@ -8,9 +8,8 @@ import org.junit.Assert;
 import reusable.Reusable;
 
 public class Recres  {
-//amar
-    //test
-    //main
+//amar- test
+
     public static Reusable obj;
 
     public static void main (String[] args) throws Exception
